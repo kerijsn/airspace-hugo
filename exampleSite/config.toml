@@ -1,5 +1,5 @@
 baseURL = "http://commonsort.netlify.com"
-disableLanguages = ["fr"]
+disableLanguages = ["deutsch", "italiano", "fr"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
