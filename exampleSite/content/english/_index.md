@@ -24,7 +24,7 @@ about:
   image: "/images/junko-nakase-q-72wa9-7dg-unsplash.jpg"
 portfolio:
   enable: true
-  bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
+  bg_image: "/images/eugene-chystiakov-qel0vl0ak7g-unsplash.jpg"
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
