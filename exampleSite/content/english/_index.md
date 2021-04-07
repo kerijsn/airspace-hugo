@@ -4,7 +4,7 @@ banner:
   bg_image: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
   bg_overlay: true
   title: BUY SELL TRADE
-  content: Now Buying for SUMMER
+  content: We are currently buying for SUMMER
   button:
     enable: true
     label: Book a selling appointment
