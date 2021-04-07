@@ -280,9 +280,9 @@ startLevel = 2
 home = ["HTML"]
 [params]
 author = "Themefisher"
-description = "This is meta description"
+description = "Buy Sell Trade"
 images = ["images/logo.png"]
-logo = "images/logo.png"
+logo = "/images/commonsort_white_small.png"
 logo_width = "150px"
 title = "Airspace Hugo Template"
 [params.contact]
