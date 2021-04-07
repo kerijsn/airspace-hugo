@@ -1,5 +1,5 @@
 baseURL = "http://commonsort.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
@@ -287,9 +287,9 @@ logo_width = "150px"
 title = "Airspace Hugo Template"
 [params.contact]
 address_descriptors = true
-email = "demo@email.com"
-location = "North Main Street, Brooklyn Australia"
-phone = "0124857985320"
+email = "info@commonsort.com"
+location = "Toronto, ON"
+phone = "(416) 479-3517"
 [params.contact.form]
 action = "#"
 enable = true
