@@ -1,4 +1,4 @@
-baseURL = "http://common-sort-test.netlify.com"
+baseURL = "http://commonsort.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
