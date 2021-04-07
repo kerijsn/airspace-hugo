@@ -111,7 +111,7 @@ URL = "about"
 name = "About"
 weight = 2
 [[languages.en.menu.main]]
-URL = "how-it-works"
+URL = "project"
 name = "How It Works"
 weight = "3"
 [[languages.en.menu.main]]
