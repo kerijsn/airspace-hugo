@@ -103,6 +103,3 @@ funfacts:
       make us stand out from the crowd.
 
 ---
-testing testing testing 
-
-![](/images/pexels-karolina-grabowska-4498143.jpg)
