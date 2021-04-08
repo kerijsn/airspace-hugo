@@ -26,7 +26,7 @@ portfolio:
   title: CLEAN OUT AND CASH IN
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus."
+    condimentum nibh, ut fermentum massa justo sit amet risus.\n\n"
   button:
     enable: true
     label: Here's How It Works
