@@ -32,7 +32,7 @@ portfolio:
     label: Here's How It Works
     link: project
 service:
-  enable: false
+  enable: true
   service_item:
   - icon: Condition
     name: Condition
@@ -63,7 +63,7 @@ cta:
   button:
     enable: true
     label: Learn More
-    link: contact
+    link: ''
 funfacts:
   enable: false
   title: Fun Facts About Us
