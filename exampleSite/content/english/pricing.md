@@ -28,7 +28,7 @@ pricing:
     - Basic SEO
     - Email Marketing
     - 24/7 Tech Support
-  - name: Advance
+  - name: Annex
     price: "$299"
     content: Suitable for large businesses with unlimited employees
     link: "#"
