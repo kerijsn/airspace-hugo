@@ -1,6 +1,6 @@
 ---
 title: Selling Guide
-description: ''
+description: What we're looking for
 image: "/images/junko-nakase-q-72wa9-7dg-unsplash.jpg"
 bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
 category: ''
