@@ -44,7 +44,7 @@ featured_service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
 service:
-  enable: true
+  enable: false
   title: What We're Looking For
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut
