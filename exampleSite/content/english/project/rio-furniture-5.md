@@ -1,6 +1,6 @@
 ---
 title: Donation Policy
-description: this is meta description
+description: ''
 image: "/images/angela-bailey-jlo7bf4tuoy-unsplash.jpg"
 bg_image: "/images/alyssa-strohmann-ts-unw-jqe-unsplash.jpg"
 category: Illustration
