@@ -32,7 +32,12 @@ portfolio:
     label: Here's How It Works
     link: project
 service:
-  enable: false
+  enable: true
+  service_item:
+  - name: Clean
+    content: Do you buy dirty clothing? Neither do our customers. We can only accept
+      clean, unstained, odor-free items in excellent condition.
+  title: What We're Looking For
 cta:
   enable: true
   bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
