@@ -282,9 +282,9 @@ home = ["HTML"]
 author = "Themefisher"
 description = "Buy Sell Trade"
 images = ["images/logo.png"]
-logo = "/images/commonsort_white_small.png"
+logo = "/images/commonsort.png"
 logo_width = "150px"
-title = "Airspace Hugo Template"
+title = "Common Sort"
 [params.contact]
 address_descriptors = true
 email = "info@commonsort.com"
