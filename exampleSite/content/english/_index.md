@@ -48,8 +48,7 @@ service:
       clean, unstained, odor-free items in excellent condition.
     icon: Clean
   title: What We're Looking For
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut
+  description: test test test test
 cta:
   enable: true
   bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
@@ -65,7 +64,7 @@ cta:
     label: Learn More
     link: ''
 funfacts:
-  enable: true
+  enable: false
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
