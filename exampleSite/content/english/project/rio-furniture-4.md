@@ -1,22 +1,12 @@
 ---
 title: Buy-Sell-Trade
 description: How to sell to us..
-image: images/portfolio/work4.jpg
+image: "/images/angela-bailey-jlo7bf4tuoy-unsplash.jpg"
 bg_image: "/images/alyssa-strohmann-ts-unw-jqe-unsplash.jpg"
 category: ''
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: 'Currently buying for:'
+  info: Summer
 
 ---
 ## How to sell to us....
