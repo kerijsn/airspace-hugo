@@ -1,51 +1,39 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
-draft: false
-image : "images/portfolio/work4.jpg"
-bg_image: "images/feature-bg.jpg"
-category: "UI/UX Design"
+title: Buy-Sell-Trade
+description: How to sell to us..
+image: images/portfolio/work4.jpg
+bg_image: "/images/alyssa-strohmann-ts-unw-jqe-unsplash.jpg"
+category: ''
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+- label: Client
+  info: Jannie Kelonsky
+- label: What We Did
+  info: Website Redesign
+- label: Tools Used
+  info: Photoshop,Illustrator
+- label: Completed on
+  info: 17th March 2014
+- label: Skills
+  info: HTML5 / PHP / CSS3
+- label: Client
+  info: Jannie Kelonsky
+
 ---
+## How to sell to us....
 
-## Behance Website Redesign
+[Book your selling appointment!](https://commonsort.appointedd.com/app/5ec2cad681e71f49064ada2f) We now require all sellers to come in by appointment only.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+ 1. Check what season we are buying for either on our website here or on the sign in store.
+ 2. Pack up your clean seasonal items in a bag, remember to spot-clean! Please, no more than 3 bags, and no loose items.
+ 3. When it is your scheduled appointment, bring in those excellent condition, fashionable items to the specified location.
+ 4. We will record your first and last name and your contact cell phone number, and you will be given an estimated wait time.
+ 5. A buyer will then go through all your items and determine if there is something we can resell, and will price those items for the store.
+ 6. The buyer will send you a text message when they have completed going through your items. If you have not received a text message and it is nearing end of day, please return to the store.
+ 7. You can choose to receive 50% of those prices in store credit that is good at all our locations forever. Or you can take 25% of that price in cash, on the spot.
+ 8. We require valid I.D. to give cash and you must be at least 18 years of age.
+ 9. We then give you back the items we did not choose.
+10. All items must be picked up by the end of the day they are brought in.  
+    Any items left at the store for **48 hours** will be considered donation.
+11. We are extremely picky with what we buy, please don’t take offence if we do not buy your items. There are many other factors that go in to our decisions beside style and condition. Factors like: what we currently have in stock, what we need at that moment and how many items we already have.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+**Thanks and good luck!**
