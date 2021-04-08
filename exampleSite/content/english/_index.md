@@ -34,7 +34,7 @@ portfolio:
     label: Here's How It Works
     link: project
 service:
-  enable: true
+  enable: false
 cta:
   enable: true
   bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
