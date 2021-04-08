@@ -1,7 +1,7 @@
 ---
 title: Drop Us A Note
-description: ''
-bg_image: images/feature-bg.jpg
+description: this is meta description
+bg_image: "/images/common-sort-toronto-by-kasia-kmiec.jpeg"
 layout: contact
 
 ---
