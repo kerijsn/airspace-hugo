@@ -24,14 +24,14 @@ about:
   image: "/images/junko-nakase-q-72wa9-7dg-unsplash.jpg"
 portfolio:
   enable: true
-  bg_image: "/images/eugene-chystiakov-qel0vl0ak7g-unsplash.jpg"
+  bg_image: "/images/andrej-lisakov-yy4sn6qzbou-unsplash.jpg"
   title: CLEAN OUT AND CASH IN
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus."
   button:
     enable: true
-    label: View Works
+    label: Here's How It Works
     link: project
 service:
   enable: true
