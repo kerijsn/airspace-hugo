@@ -1,7 +1,7 @@
 ---
-title: About Us
-description: ''
-bg_image: "/images/angela-bailey-jlo7bf4tuoy-unsplash.jpg"
+title: About Common Sort
+description: test
+bg_image: "/images/alyssa-strohmann-ts-unw-jqe-unsplash.jpg"
 layout: about
 about:
   enable: true
@@ -18,25 +18,25 @@ about:
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
-    count: "349"
+    count: '349'
   - icon: ion-ios-flame-outline
     name: Lines Of Code
-    count: "35000"
+    count: '35000'
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
-    count: "70"
+    count: '70'
   - icon: ion-ios-wineglass-outline
     name: Awards Winner
-    count: "10"
+    count: '10'
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
-    count: "75"
+    count: '75'
   - icon: ion-ios-body-outline
     name: Awards Winner
-    count: "20"
+    count: '20'
 features:
   enable: true
-  title: Buy-Sell-Trade Fashion Resale
+  title: We are indepented Design & Development Agency
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
