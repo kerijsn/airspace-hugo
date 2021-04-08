@@ -48,6 +48,8 @@ service:
       clean, unstained, odor-free items in excellent condition.
     icon: Clean
   title: What We're Looking For
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut
 cta:
   enable: true
   bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
