@@ -38,7 +38,7 @@ service:
     name: Condition
     content: Details matter! If it’s missing a button, has a tiny tear or the zipper’s
       broken, we can’t take it. It pays to make sure your items are in great shape.
-  - icon: Current
+  - icon: ''
     name: Current
     content: Just like you, our customers want on-trend, in-style items. So bring
       us that amazing designer dress you bought that doesn’t quite fit or that jacket
@@ -46,7 +46,7 @@ service:
   - name: Clean
     content: Do you buy dirty clothing? Neither do our customers. We can only accept
       clean, unstained, odor-free items in excellent condition.
-    icon: Clean
+    icon: "\\"
   title: What We're Looking For
   description: test test test test
 cta:
