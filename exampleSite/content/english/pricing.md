@@ -1,12 +1,12 @@
 ---
-title: Our Pricing
-description: this is meta description
+title: Locations
+description: Where to find us!
 bg_image: images/feature-bg.jpg
 layout: pricing
 pricing:
-  enable: false
+  enable: true
   pricing_table:
-  - name: Basic
+  - name: Riverside
     price: "$99"
     content: Perfect for single freelancers who work by themselves
     link: "#"
