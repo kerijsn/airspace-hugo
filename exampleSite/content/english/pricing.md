@@ -17,7 +17,7 @@ pricing:
     - Basic SEO
     - Email Marketing
     - 24/7 Tech Support
-  - name: Premium
+  - name: Parkdale
     price: "$199"
     content: Suitable for small businesses with up to 5 employees
     link: "#"
