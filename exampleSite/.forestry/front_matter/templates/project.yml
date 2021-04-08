@@ -16,10 +16,6 @@ fields:
   name: bg_image
   label: bg image
   description: page header background image
-- type: text
-  name: category
-  label: category
-  description: Filter Category
 - type: field_group_list
   name: information
   label: information
