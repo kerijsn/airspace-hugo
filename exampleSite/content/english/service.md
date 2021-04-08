@@ -17,6 +17,13 @@ about:
     suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
+  funfacts:
+  - icon: ''
+    name: ''
+    count: ''
+  button:
+    enable: true
+    label: Test
 featured_service:
   enable: true
   service_item:
