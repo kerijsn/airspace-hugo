@@ -49,6 +49,9 @@ service:
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut
   service_item:
+  - icon: ion-heart
+    name: Test
+    content: ''
   - icon: ion-coffee
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
