@@ -1,6 +1,6 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/feature-bg.jpg"
+title: How It Works
+description: How to Buy-Sell-Trade
+bg_image: "/images/alyssa-strohmann-ts-unw-jqe-unsplash.jpg"
+
 ---
