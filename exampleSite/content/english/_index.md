@@ -32,7 +32,7 @@ portfolio:
     label: Here's How It Works
     link: project
 service:
-  enable: false
+  enable: true
   service_item:
   - icon: ''
     name: Condition
