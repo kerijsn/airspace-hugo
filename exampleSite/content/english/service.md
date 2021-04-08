@@ -1,11 +1,11 @@
 ---
 title: Service
 description: this is meta description
-bg_image: "/images/pexels-cottonbro-6068960.jpg"
+bg_image: images/feature-bg.jpg
 layout: service
 about:
   enable: true
-  title: Creative UX/UI Design Agency
+  title: Community Efforts
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
     corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
     ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
