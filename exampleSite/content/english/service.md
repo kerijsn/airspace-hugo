@@ -16,7 +16,7 @@ about:
     voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
     suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
     dolore officia adipisci neque!
-  image: images/company/company-group-pic.jpg
+  image: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
   funfacts:
   - icon: ''
     name: ''
@@ -79,5 +79,6 @@ service:
       tempor incididunt ut
 cta:
   enable: true
+  bg_image: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
 
 ---
