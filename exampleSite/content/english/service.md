@@ -24,6 +24,7 @@ about:
   button:
     enable: true
     label: Test
+    link: https://commonsort.com/
 featured_service:
   enable: true
   service_item:
