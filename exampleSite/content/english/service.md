@@ -34,7 +34,7 @@ featured_service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
   - name: Value 2
-    icon: ion-leaf
+    icon: ''
     color: primary-dark
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
