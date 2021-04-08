@@ -1,15 +1,15 @@
 ---
-title: Rio Furniture
-description: this is meta description
-image: images/portfolio/work3.jpg
-bg_image: images/feature-bg.jpg
-category: Video
+title: Selling Guide
+description: ''
+image: "/images/junko-nakase-q-72wa9-7dg-unsplash.jpg"
+bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
+category: ''
 information:
 - label: 'Currently buying for:'
   info: Summer
 
 ---
-## Seller's Guide
+## Selling Guide
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
