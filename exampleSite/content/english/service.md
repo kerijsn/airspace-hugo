@@ -28,8 +28,8 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Interface Design
-    icon: ion-erlenmeyer-flask
+  - name: Title
+    icon: ''
     color: primary
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
