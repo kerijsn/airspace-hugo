@@ -28,7 +28,7 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Title
+  - name: Value 1
     icon: ''
     color: primary
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
@@ -38,7 +38,7 @@ featured_service:
     color: primary-dark
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
-  - name: Game Development
+  - name: Value 3
     icon: ion-lightbulb
     color: primary-darker
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
