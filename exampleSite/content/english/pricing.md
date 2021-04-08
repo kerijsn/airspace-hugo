@@ -1,7 +1,7 @@
 ---
 title: Locations
 description: Where to find us!
-bg_image: images/feature-bg.jpg
+bg_image: "/images/alyssa-strohmann-ts-unw-jqe-unsplash.jpg"
 layout: pricing
 pricing:
   enable: true
