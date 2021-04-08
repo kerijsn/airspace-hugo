@@ -37,6 +37,7 @@ service:
   - name: Clean
     content: Do you buy dirty clothing? Neither do our customers. We can only accept
       clean, unstained, odor-free items in excellent condition.
+    icon: Clean
   title: What We're Looking For
 cta:
   enable: true
