@@ -34,6 +34,11 @@ portfolio:
 service:
   enable: true
   service_item:
+  - icon: Current
+    name: Current
+    content: Just like you, our customers want on-trend, in-style items. So bring
+      us that amazing designer dress you bought that doesn’t quite fit or that jacket
+      you loved when you bought but just don’t wear.
   - name: Clean
     content: Do you buy dirty clothing? Neither do our customers. We can only accept
       clean, unstained, odor-free items in excellent condition.
