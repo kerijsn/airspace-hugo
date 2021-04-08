@@ -1,6 +1,6 @@
 ---
 title: Community
-description: title
+description: ''
 bg_image: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
 layout: service
 about:
