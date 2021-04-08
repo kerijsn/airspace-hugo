@@ -345,8 +345,8 @@ link = "#"
 icon = "ion-social-pinterest-outline"
 link = "#"
 [[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
+icon = "ion-social-instagram-outline"
+link = "https://www.instagram.com/commonsort/?hl=en"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "https://twitter.com/CommonSort?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
