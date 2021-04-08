@@ -1,7 +1,7 @@
 ---
-title: About Our Company
+title: About Us
 description: this is meta description
-bg_image: images/feature-bg.jpg
+bg_image: "/images/angela-bailey-jlo7bf4tuoy-unsplash.jpg"
 layout: about
 about:
   enable: true
