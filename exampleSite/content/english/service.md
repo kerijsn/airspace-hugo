@@ -1,7 +1,7 @@
 ---
-title: Service
-description: this is meta description
-bg_image: images/feature-bg.jpg
+title: Community
+description: title
+bg_image: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
 layout: service
 about:
   enable: true
