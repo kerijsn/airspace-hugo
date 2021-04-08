@@ -1,6 +1,6 @@
 ---
 title: Buy-Sell-Trade
-description: How to sell to us..
+description: Selling Instructions
 image: "/images/angela-bailey-jlo7bf4tuoy-unsplash.jpg"
 bg_image: "/images/alyssa-strohmann-ts-unw-jqe-unsplash.jpg"
 category: ''
