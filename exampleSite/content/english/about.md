@@ -13,8 +13,8 @@ about:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
   button:
     enable: false
-    label: Learn More
-    link: "#"
+    label: Book a Selling Appointment
+    link: https://commonsort.appointedd.com/app/5ec2cad681e71f49064ada2f
   funfacts:
   - icon: ion-ios-loop
     name: Fun Fact
