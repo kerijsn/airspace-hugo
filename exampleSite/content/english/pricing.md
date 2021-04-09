@@ -34,7 +34,7 @@ pricing:
     - 'Sunday: 11 AM - 6 PM'
   - name: 444 Bloor St W
     price: Annex
-    content: 416-532-5990
+    content: "(416) 532-5990"
     link: https://www.google.ca/maps/place/Common+Sort+-+Annex/@43.6657677,-79.4111137,17z/data=!3m2!4b1!5s0x882b3493fdce118f:0x1cc87884e20aaa4f!4m5!3m4!1s0x882b3493fdc9884d:0xd36b0cffa4b4a878!8m2!3d43.6657677!4d-79.408925
     services:
     - HOURS
