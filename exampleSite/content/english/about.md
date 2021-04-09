@@ -26,7 +26,7 @@ about:
     name: Fun Fact
     count: "70"
   - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
+    name: Fun Fact
     count: "75"
   - icon: ion-ios-body-outline
     name: Awards Winner
