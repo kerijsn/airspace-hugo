@@ -55,7 +55,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-star-outline
-    name: Branding
+    name: Title
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 testimonial:
