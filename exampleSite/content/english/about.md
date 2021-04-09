@@ -29,7 +29,7 @@ about:
     name: Fun Fact
     count: "75"
   - icon: ion-ios-body-outline
-    name: Awards Winner
+    name: Fun Fact
     count: "20"
 features:
   enable: true
