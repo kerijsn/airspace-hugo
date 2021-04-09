@@ -16,13 +16,16 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
+  - icon: ''
+    name: ''
+    count: ''
   - icon: ion-ios-star-outline
     name: Fun Fact
     count: "13"
   - icon: ion-ios-flame-outline
     name: Fun Fact
     count: "100"
-  - icon: ion-heart
+  - icon: ion-ios-heart-outline
     name: Fun Fact
     count: "70"
   - icon: ion-ios-chatboxes-outline
