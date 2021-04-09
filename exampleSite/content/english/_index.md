@@ -49,7 +49,7 @@ service:
       clean, unstained, odor-free items in excellent condition.
     icon: ion-tshirt-outline
   title: What We're Looking For
-  description: test test test test
+  description: test
 cta:
   enable: true
   bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
