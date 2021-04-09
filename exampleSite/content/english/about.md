@@ -10,7 +10,7 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
+  title : "Buy-Sell-Trade Fashion"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
           
           
@@ -20,24 +20,24 @@ about:
 
   button:
     enable : true
-    label : "Download Company Profile"
-    link : "#"
+    label : "Here's How it Works"
+    link : "#project"
 
   funfacts:
   # funfacts loop
-  - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Completed Projects"
-    count : "349"
+  - icon : "ion-star" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Fact"
+    count : "200"
     
   # funfacts loop
   - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Lines Of Code"
-    count : "35000"
+    count : "200"
     
   # funfacts loop
   - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Satisfied Customer"
-    count : "70"
+    count : "200"
     
   # funfacts loop
   - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -47,46 +47,46 @@ about:
   # funfacts loop
   - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Satisfied Customer"
-    count : "75"
+    count : "200"
     
   # funfacts loop
   - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Awards Winner"
-    count : "20"
+    count : "200"
     
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Title"
   feature_item:
   # feature item loop
   - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "IOS App Development"
+    name : "Buy"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "App Secutity"
+    name : "Sell"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Games Development"
+    name : "Trade"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Animation and Editing"
+    name : "Community"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "UI/UX Design"
+    name : "Test"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
   - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Branding"
+    name : "Test"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
   
 
