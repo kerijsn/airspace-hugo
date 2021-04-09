@@ -5,10 +5,10 @@ author: Common Sort
 image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
 bg_image: "/images/pexels-cottonbro-6068960.jpg"
 categories:
-- Technical Assistance
+- COVID-19
 tags:
-- How to
-- Technology
+- COVID-19
+- Announcement
 type: post
 
 ---
