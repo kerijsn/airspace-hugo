@@ -20,8 +20,8 @@ about:
     name: Fun Fact
     count: "13"
   - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "35000"
+    name: Fun Fact
+    count: "100"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
