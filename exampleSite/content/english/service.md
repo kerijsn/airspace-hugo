@@ -36,7 +36,7 @@ featured_service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
 service:
-  enable: true
+  enable: false
   title: Our Services
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
