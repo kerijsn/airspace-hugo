@@ -22,8 +22,8 @@ about:
   - icon: ion-ios-flame-outline
     name: Fun Fact
     count: "100"
-  - icon: ion-ios-pint-outline
-    name: Satisfied Customer
+  - icon: ion-heart
+    name: Fun Fact
     count: "70"
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
