@@ -39,7 +39,7 @@ service:
     name: Condition
     content: Details matter! If it’s missing a button, has a tiny tear or the zipper’s
       broken, we can’t take it. It pays to make sure your items are in great shape.
-  - icon: ''
+  - icon: ion-ios-star
     name: Current
     content: Just like you, our customers want on-trend, in-style items. So bring
       us that amazing designer dress you bought that doesn’t quite fit or that jacket
