@@ -25,8 +25,8 @@ featured_service:
     color: primary
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
-  - name: Product Branding
-    icon: ion-leaf
+  - name: Giving Back
+    icon: ion-star
     color: primary-dark
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
