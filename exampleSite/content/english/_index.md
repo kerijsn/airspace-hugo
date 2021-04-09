@@ -53,7 +53,7 @@ service:
 cta:
   enable: true
   bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
-  title: We're dedicated to our community
+  title: Buy an Online Gift Card
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
     nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -62,8 +62,8 @@ cta:
     culpa qui officia deserunt mollit anim id est laborum.
   button:
     enable: true
-    label: Learn More
-    link: ''
+    label: Buy Now
+    link: https://commonsort.myshopify.com/
 funfacts:
   enable: false
   title: Fun Facts About Us
