@@ -17,7 +17,7 @@ about:
     link: "#"
   funfacts:
   - icon: ion-star
-    name: Years in Business
+    name: Fun Fact
     count: "13"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
@@ -25,9 +25,6 @@ about:
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
-  - icon: ion-ios-wineglass-outline
-    name: Awards Winner
-    count: "10"
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
     count: "75"
