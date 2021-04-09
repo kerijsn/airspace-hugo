@@ -25,12 +25,12 @@ featured_service:
     color: primary
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
-  - name: Giving Back
+  - name: Value 2
     icon: ion-star
     color: primary-dark
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
-  - name: Equity
+  - name: Value 3
     icon: ion-ios-people
     color: primary-darker
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
