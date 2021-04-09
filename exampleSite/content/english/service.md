@@ -20,8 +20,8 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Value
-    icon: ion-erlenmeyer-flask
+  - name: Environment
+    icon: ion-leaf
     color: primary
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
