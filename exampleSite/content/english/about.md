@@ -36,10 +36,10 @@ about:
     count: "20"
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: Buy-Sell-Trade
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
+    name: Title
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-unlocked-outline
