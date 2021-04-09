@@ -20,7 +20,7 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Environment
+  - name: Value 1
     icon: ion-leaf
     color: primary
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
