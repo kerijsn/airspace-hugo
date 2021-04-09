@@ -1,5 +1,5 @@
 ---
-title: service
+title: Community
 description: ''
 bg_image: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
 layout: service
