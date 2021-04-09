@@ -20,7 +20,7 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Interface Design
+  - name: Value
     icon: ion-erlenmeyer-flask
     color: primary
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
