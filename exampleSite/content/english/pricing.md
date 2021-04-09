@@ -47,5 +47,12 @@ pricing:
     - 'Sunday: 11 AM - 6 PM'
 cta:
   enable: true
+  bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
+  title: Test
+  content: Test
+  button:
+    enable: true
+    label: test
+    link: https://commonsort.com/
 
 ---
