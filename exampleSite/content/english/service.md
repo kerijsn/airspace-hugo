@@ -49,10 +49,6 @@ service:
     name: Name of Organization
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-image
-    name: Name of Organization
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
   - icon: ion-leaf
     name: Name of Organization
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
