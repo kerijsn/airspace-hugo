@@ -1,6 +1,6 @@
 ---
 title: Community
-description: this is meta description
+description: ''
 bg_image: "/images/pexels-cottonbro-6068960.jpg"
 layout: service
 about:
