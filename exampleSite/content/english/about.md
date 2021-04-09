@@ -6,7 +6,7 @@ layout: about
 about:
   enable: true
   image: "/images/junko-nakase-q-72wa9-7dg-unsplash.jpg"
-  title: Buy-Sell-Trade Fashion
+  title: Our Story
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
 
