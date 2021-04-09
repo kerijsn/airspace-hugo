@@ -5,7 +5,7 @@ bg_image: "/images/alyssa-strohmann-ts-unw-jqe-unsplash.jpg"
 layout: about
 about:
   enable: true
-  image: ''
+  image: "/images/junko-nakase-q-72wa9-7dg-unsplash.jpg"
   title: Buy-Sell-Trade Fashion
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
@@ -16,9 +16,9 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
+  - icon: ion-star
+    name: Years in Business
+    count: "13"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
     count: "35000"
