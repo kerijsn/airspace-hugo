@@ -38,6 +38,10 @@ features:
   enable: true
   title: Buy-Sell-Trade
   feature_item:
+  - icon: ion-social-usd-outline
+    name: Title
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
   - icon: ion-ios-people-outline
     name: Title
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
