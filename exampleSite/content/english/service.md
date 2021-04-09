@@ -30,8 +30,8 @@ featured_service:
     color: primary-dark
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
-  - name: Game Development
-    icon: ion-lightbulb
+  - name: Equity
+    icon: ion-ios-people
     color: primary-darker
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
