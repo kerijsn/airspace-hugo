@@ -135,6 +135,10 @@ URL = "service"
 name = "Community Efforts"
 parent = "More"
 [[languages.en.menu.main]]
+URL = "about"
+name = "Careers"
+parent = "More"
+[[languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6
