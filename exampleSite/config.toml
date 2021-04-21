@@ -91,8 +91,8 @@ URL = "service"
 name = "Service"
 weight = 3
 [[languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
+URL = "locations"
+name = "Locations"
 weight = 4
 [[languages.en.menu.footer]]
 URL = "faq"
