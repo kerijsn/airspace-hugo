@@ -2,8 +2,8 @@
 title: Locations
 description: Where to find us!
 bg_image: "/images/common-sort-toronto-by-kasia-kmiec.jpeg"
-layout: pricing
-pricing:
+layout: locations
+locations:
   enable: true
   pricing_table:
   - name: 760 Queen St E
