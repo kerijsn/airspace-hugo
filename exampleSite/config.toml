@@ -127,8 +127,8 @@ URL = "faq"
 name = "FAQ"
 parent = "More"
 [[languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
+URL = "locations"
+name = "Locations"
 parent = "More"
 [[languages.en.menu.main]]
 URL = "service"
