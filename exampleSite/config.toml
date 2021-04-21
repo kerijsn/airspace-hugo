@@ -84,11 +84,11 @@ name = "About"
 weight = 1
 [[languages.en.menu.footer]]
 URL = "project"
-name = "Project"
+name = "How It Works"
 weight = 2
 [[languages.en.menu.footer]]
 URL = "service"
-name = "Service"
+name = "Community Efforts"
 weight = 3
 [[languages.en.menu.footer]]
 URL = "locations"
@@ -132,7 +132,7 @@ name = "Locations"
 parent = "More"
 [[languages.en.menu.main]]
 URL = "service"
-name = "Service"
+name = "Community Efforts"
 parent = "More"
 [[languages.en.menu.main]]
 URL = "contact"
