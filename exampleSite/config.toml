@@ -135,7 +135,7 @@ URL = "service"
 name = "Community Efforts"
 parent = "More"
 [[languages.en.menu.main]]
-URL = "about"
+URL = "careers"
 name = "Careers"
 parent = "More"
 [[languages.en.menu.main]]
