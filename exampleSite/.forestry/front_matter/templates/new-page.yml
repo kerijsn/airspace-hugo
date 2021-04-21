@@ -5,12 +5,23 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: description
+- name: description
+  type: text
+  config:
+    required: false
   label: description
 - type: file
   name: bg_image
   label: bg_image
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text
 pages:
 - exampleSite/content/english/careers.md
 - exampleSite/content/english/careers.md
